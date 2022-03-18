@@ -3,17 +3,9 @@
 }
 
 body {
-    background-color: rgba(127, 255, 212, 0.24);
-    color: rgb(1, 20, 14);
 }
 
 header {
-    background-color: rgb(162, 206, 207);
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-bottom: 15px;
-    padding: 0px 12px;
 }
 
 header nav {
@@ -46,9 +38,6 @@ header nav a:hover {
 }
 
 #principal {
-    background-image: url(../img/Edmonton_Skyline_Northern-Lights-AtTheLookout_WEB_211122_162316.jpg);
-    background-size: cover;
-    padding: 12px;
 }
 
 #principal article {
