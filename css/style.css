@@ -6,12 +6,6 @@ body {
 }
 
 header {
-    background-color: rgb(162, 206, 207);
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-    margin-bottom: 15px;
-    padding: 0px 12px;
 }
 
 header nav {
