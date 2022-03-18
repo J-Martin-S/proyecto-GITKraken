@@ -9,11 +9,7 @@ header {
 }
 
 header nav {
-    width: 50%;
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
-}
+  }
 
 header nav a {
     padding: 6px 9px;
@@ -148,6 +144,4 @@ footer nav a:hover {
 }
 
 aside {
-    width: 50%;
-    text-align: center;
-}
+ }
